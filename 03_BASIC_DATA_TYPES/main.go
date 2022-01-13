@@ -13,7 +13,7 @@ func main() {
 
 	var isMarried bool = false
 
-	var weight float32 = 90
+	var weight float32 = 90.5
 
 	fmt.Println(name)
 	fmt.Println(age)
