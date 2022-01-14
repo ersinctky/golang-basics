@@ -34,7 +34,7 @@ func main() {
 		   fmt.Println(x + int(y)) */
 
 	num1 := 106
-	str1 := string(num1)
+	str1 := string(rune(num1))
 
 	fmt.Printf("%v %T\n", num1, num1)
 	fmt.Println()
